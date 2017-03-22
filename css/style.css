@@ -649,6 +649,7 @@ Footer
 .widget-title {
   text-transform: uppercase;
   letter-spacing: 0.2em;
+  word-spacing: 12px;
   margin: 0 0 20px;
   text-align: center; }
 
