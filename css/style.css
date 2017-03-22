@@ -649,28 +649,28 @@ Footer
 .widget-title {
   text-transform: uppercase;
   letter-spacing: 0.2em;
-  word-spacing: 12px;
   margin: 0 0 20px;
   text-align: center; }
 
-.widget-text input[type="text"] {
-  width: 200px;
-  color: #111;
-  border: 1px solid #E6E6E6;
-  border-radius: 3px;
-  padding: 3px; }
-
-.widget-text input[type="submit"] {
-  border: 1px solid;
-  border-color: #ccc #ccc #bbb;
-  border-radius: 3px;
-  background: #e6e6e6;
-  color: rgba(0, 0, 0, 0.8);
-  cursor: pointer;
-  -webkit-appearance: button;
-  font-size: 0.8rem;
-  line-height: 1;
-  padding: 0.6em 1em 0.4em; }
+.widget-text {
+  word-spacing: 13px; }
+  .widget-text input[type="text"] {
+    width: 200px;
+    color: #111;
+    border: 1px solid #E6E6E6;
+    border-radius: 3px;
+    padding: 3px; }
+  .widget-text input[type="submit"] {
+    border: 1px solid;
+    border-color: #ccc #ccc #bbb;
+    border-radius: 3px;
+    background: #e6e6e6;
+    color: rgba(0, 0, 0, 0.8);
+    cursor: pointer;
+    -webkit-appearance: button;
+    font-size: 0.8rem;
+    line-height: 1;
+    padding: 0.6em 1em 0.4em; }
 
 .custom-widget-content p {
   text-align: left; }
