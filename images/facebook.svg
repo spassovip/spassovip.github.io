@@ -6,7 +6,7 @@
 	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 512 512"
 	 enable-background="new 0 0 512 512" xml:space="preserve">
 <g id="g2987" transform="matrix(0.98046874,0,0,0.98046874,4.9935963,4.9986352)">
-	<path id="path2989" fill="#000000" stroke="#000000" stroke-width="10.1992" d="M512,256c0,141.4-114.6,256-256,256S0,397.4,0,256
+	<path id="path2989" fill="none" stroke="#000000" stroke-width="10.1992" d="M512,256c0,141.4-114.6,256-256,256S0,397.4,0,256
 		S114.6,0,256,0S512,114.6,512,256z"/>
 </g>
 <g id="g2983" transform="translate(889.672,27.929991)">
