@@ -235,8 +235,8 @@ tt,
 ul,
 var {
   border: 0;
-  font-family: inherit;
   font-size: 100%;
+  font-style: inherit;
   font-weight: inherit;
   margin: 0;
   outline: 0;
