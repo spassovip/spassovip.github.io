@@ -677,8 +677,6 @@ Footer
     font-size: 0.8rem;
     line-height: 1;
     padding: 0.6em 1em 0.4em; }
-    .widget-text input[type="submit"]::placeholder {
-      color: rgba(200, 94, 94, 0.5); }
 
 .custom-widget-content p {
   text-align: left; }
@@ -687,8 +685,6 @@ Footer
   list-style: disc;
   display: inline-block;
   color: #c85e5e; }
-  .custom-widget-content ul li a {
-    color: #c85e5e; }
 
 .icon {
   display: inline-block;
