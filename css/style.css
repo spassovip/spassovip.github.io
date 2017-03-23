@@ -663,7 +663,7 @@ Footer
   .widget-text input[type="text"] {
     width: 200px;
     color: #111;
-    border: 1px solid #c85e5e;
+    border: 1px solid #000000;
     border-radius: 3px;
     padding: 3px; }
   .widget-text input[type="submit"] {
@@ -683,8 +683,7 @@ Footer
 
 .custom-widget-content ul {
   list-style: disc;
-  display: inline-block;
-  color: #c85e5e; }
+  display: inline-block; }
 
 .icon {
   display: inline-block;
