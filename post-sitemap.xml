@@ -8,9 +8,15 @@
 
     <url>
         <loc>https://spassovip.com.br/2017/03/22/hello-world/</loc>
-        <lastmod>2017-03-24T14:11:51.000Z</lastmod>
+        <lastmod>2017-03-24T16:01:16.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
+
+        <image:image>
+
+            <image:loc>https://spassovip.com.br/img/teste.jpg</image:loc>
+
+        </image:image>
 
     </url>
 
