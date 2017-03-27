@@ -35,7 +35,19 @@ var appDaily = {
         nav.setAttribute('class', (c + ' show-force').trim());
       }
     });
+  },
+  toggleHeader: function() {
+    var header = document.querySelector('[data-js="header"]');
+
+    window.addEventListener('scroll', function() {
+      if (document.body.scrollTop !== 0) {
+        header.classList.add('body-is-scrolled');
+      } else {
+        header.classList.remove('body-is-scrolled');
+      }
+    });
   }
 };
 
 appDaily.bindToggleButton();
+appDaily.toggleHeader();
