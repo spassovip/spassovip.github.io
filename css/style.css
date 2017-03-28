@@ -267,7 +267,7 @@ h6 {
 
 p {
   margin: 1em 0;
-  line-height: 1.5; }
+  line-height: 1.7; }
 
 b,
 strong {
@@ -522,7 +522,7 @@ Content
   position: relative; }
 
 .container {
-  max-width: 600px;
+  max-width: 650px;
   margin: 0 auto;
   padding-left: 50px;
   padding-right: 50px; }
@@ -824,7 +824,8 @@ Footer
 .entry-content {
   font-family: -apple-system, BlinkMacSystemFont,"Helvetica Neue","PingFang-SC-Regular","STHeiti", "Helvetica","Arial","Verdana","sans-serif","Microsoft YaHei";
   line-height: 1.7;
-  word-wrap: break-word; }
+  word-wrap: break-word;
+  color: #444; }
   .entry-content ol,
   .entry-content ul {
     margin: 0 0 1.5em 3em; }
