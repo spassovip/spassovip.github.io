@@ -250,7 +250,7 @@ button,
 input,
 select,
 textarea {
-  color: #3a3a3a;
+  color: #555555;
   font-family: 'Open sans',sans-serif;
   font-size: 100%;
   line-height: 1.5; }
@@ -410,16 +410,16 @@ em {
 Links
 --------------------------------------------------------------*/
 a {
-  color: #3a3a3a;
+  color: #555555;
   text-decoration: none; }
 
 a:visited {
-  color: #3a3a3a; }
+  color: #555555; }
 
 a:active,
 a:focus,
 a:hover {
-  color: #3a3a3a;
+  color: #555555;
   opacity: 0.8; }
 
 /*--------------------------------------------------------------
@@ -542,20 +542,20 @@ Content
 .entry-title {
   font-family: -apple-system, BlinkMacSystemFont,"Helvetica Neue","PingFang-SC-Regular","STHeiti", "Helvetica","Arial","Verdana","sans-serif","Microsoft YaHei";
   letter-spacing: 0.2em;
-  color: #c85e5e;
+  color: #f5475a;
   text-align: center;
   margin-bottom: 27px;
   font-weight: 700;
   font-size: 1.25em; }
   .entry-title a {
-    color: #c85e5e;
+    color: #f5475a;
     font-weight: 700;
     text-decoration: none; }
   .entry-title:after {
     content: "";
     height: 2px;
     width: 50px;
-    background: #c85e5e;
+    background: #f5475a;
     display: block;
     margin: 20px auto 0; }
   .entry-title:hover {
@@ -655,7 +655,7 @@ Footer
     content: "";
     height: 2px;
     width: 50px;
-    background: #c85e5e;
+    background: #f5475a;
     display: block;
     margin: 10px auto 0; }
 
