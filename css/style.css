@@ -1057,8 +1057,8 @@ pre {
     height: 36px; }
   .site-content {
     min-height: auto; }
-    .site-content .content-area {
-      padding-top: 0; }
+  .content-area {
+    padding-top: 0; }
   .site-header {
     position: relative; }
     .site-header .navbar {
