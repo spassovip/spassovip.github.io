@@ -542,20 +542,20 @@ Content
 .entry-title {
   font-family: -apple-system, BlinkMacSystemFont,"Helvetica Neue","PingFang-SC-Regular","STHeiti", "Helvetica","Arial","Verdana","sans-serif","Microsoft YaHei";
   letter-spacing: 0.2em;
-  color: #f5475a;
+  color: #6441A5;
   text-align: center;
   margin-bottom: 27px;
   font-weight: 700;
   font-size: 1.25em; }
   .entry-title a {
-    color: #f5475a;
+    color: #6441A5;
     font-weight: 700;
     text-decoration: none; }
   .entry-title:after {
     content: "";
     height: 2px;
     width: 50px;
-    background: #f5475a;
+    background: #6441A5;
     display: block;
     margin: 20px auto 0; }
   .entry-title:hover {
@@ -655,7 +655,7 @@ Footer
     content: "";
     height: 2px;
     width: 50px;
-    background: #f5475a;
+    background: #6441A5;
     display: block;
     margin: 10px auto 0; }
 
